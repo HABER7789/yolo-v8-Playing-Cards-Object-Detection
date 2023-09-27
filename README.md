@@ -2,7 +2,6 @@
 
 A personal project on playing cards detection using yolo v8. Built for learning purposes. 
 
-*
 - The primary aim for the project was to create my own dataset, however labelling every single image for a deck of cards was quite time consuming
 - The dataset was downloaded from Kaggle which was further used for training and testing purposes
 - The project does not include validation of the model, it only revolves around training and testing
